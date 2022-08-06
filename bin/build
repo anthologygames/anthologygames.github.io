@@ -1,5 +1,4 @@
 #!/bin/sh
 
-npm install
 npm run build
 cd site && hugo -D -d ../dist
