@@ -1,0 +1,5 @@
+baseURL = "http://anthology.studio/"
+languageCode = "en-us"
+theme = "anthology"
+title = "Anthology"
+staticDir = ["../build_assets"]
